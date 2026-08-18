@@ -1,2 +1,2 @@
 # Customer-satisfaction-ml-classification
-Machine learning classification project analysing traveller satisfaction using Python, feature engineering and multiple classification algorithms.
+Customer satisfaction classification using Python, Pandas and Scikit-learn with EDA, feature engineering, Decision Tree, Random Forest, KNN and Logistic Regression.
